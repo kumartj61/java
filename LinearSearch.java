@@ -18,6 +18,7 @@ public class LinearSearch
 	  int n=4;
 	  int x=40;
  System.out.printf("%d present at index %d",x,search(arr,n,x));
+	  System.out.print("hello mithilesh");
 	  
   }  
 }
